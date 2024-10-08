@@ -1,0 +1,21 @@
+.subjects-lines {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.names {
+  width: 100%;
+  height: 96%;
+  background-color: inherit !important;
+  color: rgba(0, 38, 43, 0.233) !important;
+  white-space: wrap !important;
+  text-align: justify;
+  padding: 20px 40px;
+  line-height: 7px;
+  font-size: 8px;
+  overflow: hidden;
+}
